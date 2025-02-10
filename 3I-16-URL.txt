@@ -1,3 +1,3 @@
-公開URL : 
+公開URL : https://github.com/megumegu256/3I-16-Infrastructure_Construction_Basic_Training/blob/main/3I-16-%E6%89%8B%E9%A0%86%E6%9B%B8.md
 追加で取り組んだ内容 :
-・
+・Dockerを使った環境構築や運用方法について解説した。
